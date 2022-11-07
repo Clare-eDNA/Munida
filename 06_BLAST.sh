@@ -16,6 +16,7 @@
 
 # a small BASH script
 # by clare
+# Note: Qiime2 was used to assign taxonomy, but BLAST can be useful for looking at the data.
 
 module load BLAST/2.10.0-GCC-9.2.0
 module load BLASTDB/2020-07-v5
